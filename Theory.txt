@@ -1,0 +1,85 @@
+Major Topics:- 
+
+ - What is Node js?
+ - How it works?
+ - Install and run?
+ - Make Basic API?
+ - Use with express.js
+ - UI with Node
+    - UI event
+    - Forms
+    - WebPages etc
+- Node js event
+- MiddleWare
+- Major Package
+- Connect with DB
+- Make Major API
+- API security and Token
+- API validation
+- Project
+- Live with server
+
+Basic before getting start
+
+- What are Client and Server sides?
+- Where do we use node (Client or Server side)?
+- How NodeJs use JavaScript?
+- What developer make with node js?
+
+What developer make with Node js?
+
+Developer make API with NodeJs
+So we can Connect server with Client
+Node can make API for web, android and IOS etc
+Make can also make website.
+
+Install and setup Node js
+
+    - Download Node js
+    - Install NPM and Node
+    - List of Recommended Code Editor
+
+First script with Node
+
+Script with command line
+Make folder and file
+write first code and run
+Interview Question
+
+
+Interview question:-
+
+
+Fundamentals of Node js
+
+JavaScript Fundamentals for node js.
+Conditions, Loops and Array
+The important function and variables form another file.
+Interview Question.
+
+Core modules in Node js
+
+What are the core modules?
+Node.js core modules are built-in libraries that provide essential functionalities necessary for running a Node.js application. These modules can be easily loaded by passing their name to the require function without needing to install them separately, as they are included with the Node.js runtime.
+
+What are global modules?
+Global Model example -  A module on which there is no need to import the module then such type of module is called Global Module ex-console  module.
+Non-global Module with example - A module on which there is a need to import the module then such type of module is called non-global module. ex-file system module
+Interview Question
+
+
+Make Basic Server Output on Browser
+
+Make Basic server.
+Function as parameter in node.
+Arrow Function.
+Get Output on Browser
+Interveiw Question.
+
+All About Package.json
+
+What is Package file?
+How to make it?
+Check the file in detail?
+Install external Package
+Interveiw Question?
