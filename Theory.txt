@@ -83,3 +83,31 @@ How to make it?
 Check the file in detail?
 Install external Package
 Interveiw Question?
+
+Small challenge for you
+
+challenge for you?
+what happens if the node_module folder is deleted?
+correct way to push data on getting
+Interview Question.
+
+
+Say for example you have deleted node_modules from your folder and now how to create again we can use this command (npm install) then you see node_modules in your directory and npm takes the reference of Package.json dependencies to create it.
+
+
+Nodemon | time saving module
+
+What is the Nodemon Package?
+How to install it?
+How to use it?
+Interveiw Question?
+
+
+Make a simple API:-
+
+Make a server
+Create header and API body.
+Create an API with static data.
+Put data in another file.
+Interveiw Question.
+

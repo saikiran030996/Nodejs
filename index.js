@@ -1,10 +1,8 @@
+
 const http = require('http');
-
-function dataControl(req, res) {
-    res.write("<h1>Hello! this is Saikiran</h1>");
-    res.end()
-
-}
-
-http.createServer(dataControl).listen(4500);
-
+const data = require('./data')
+http.createServer((req, resp) => {
+    resp.writeHead(200, { 'Content-Type': 'application/json' });
+    resp.write(JSON.stringify(data));
+    resp.end()
+}).listen(1234);
